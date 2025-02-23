@@ -1,0 +1,9 @@
+<Configuration>
+
+	<Networking>Enable</Networking>
+
+	<LogonCommand>
+	  <Command>netsh interface ipv4 set dnsservers "Ethernet" static 8.8.8.8 primary</Command>
+	</LogonCommand>
+
+</Configuration>
