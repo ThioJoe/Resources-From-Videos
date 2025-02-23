@@ -1,0 +1,35 @@
+<Configuration>
+
+	<Networking>Enable</Networking>
+	<MemoryInMB>12288</MemoryInMB> <!-- Adjust allocated memory as desired. Default is only 4GB -->
+
+	<!--  Enables or disables sharing of the host clipboard with the sandbox. (Disable / Default) -->
+	<ClipboardRedirection>Enable</ClipboardRedirection>
+	
+	<MappedFolders>
+		<!--  Create a read-only folder mapped to a folder on host -->
+		<MappedFolder>
+		  <!-- Update the HostFolder path to the one on your real computer that will be shared with the Sandbox -->
+		  <HostFolder>B:\Caches\Sandbox_Share</HostFolder>
+		  <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\HostShared</SandboxFolder>
+		  <ReadOnly>true</ReadOnly> 
+		</MappedFolder>
+	</MappedFolders>
+
+	<!-- Run the powershell script from the mapped folder -->
+	<LogonCommand>
+		<Command>powershell -executionpolicy Bypass -command "start powershell {-file C:\Users\WDAGUtilityAccount\Desktop\HostShared\SandboxStartup.ps1}"</Command>
+		<!-- Use this one below instead if you want the powershell window to not close after running the script -->
+		<!-- <Command>powershell -executionpolicy Bypass -command "start powershell {-noexit -file C:\Users\WDAGUtilityAccount\HostShared\SandboxStartup.ps1}"</Command> -->
+	</LogonCommand>
+
+</Configuration>
+
+
+<!-- Other Settings Examples
+See: https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-configure-using-wsb-file
+Anything outside <configuration> tags don't apply
+
+More secure but no clipboard sharing
+<ProtectedClient>Disable</ProtectedClient>
+-->
