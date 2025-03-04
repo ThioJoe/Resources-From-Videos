@@ -1,0 +1,3 @@
+# Explicitly define syntax highlighting for certain file extensions not supported by GitHub by default
+# Uses: https://github.com/github-linguist/linguist/blob/main/lib/linguist/languages.yml
+*.wsb linguist-language=XML
