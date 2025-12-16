@@ -1,0 +1,169 @@
+Version    | Game Ready   | Studio
+----------------------------------------
+591.44     | Game Ready   | Studio
+581.80     | Game Ready   | 
+581.57     | Game Ready   | Studio
+581.42     | Game Ready   | 
+581.29     | Game Ready   | Studio
+581.15     | Game Ready   | 
+581.08     | Game Ready   | 
+580.97     | Game Ready   | Studio
+580.88     | Game Ready   | 
+577.00     | Game Ready   | Studio
+576.88     | Game Ready   | 
+576.80     | Game Ready   | Studio
+576.52     | Game Ready   | Studio
+576.40     | Game Ready   | 
+576.28     | Game Ready   | 
+576.02     | Game Ready   | Studio
+572.83     | Game Ready   | Studio
+572.70     | Game Ready   | 
+572.60     | Game Ready   | Studio
+572.47     | Game Ready   | 
+572.42     | Game Ready   | 
+572.16     | Game Ready   | Studio
+566.36     | Game Ready   | Studio
+566.14     | Game Ready   | Studio
+566.03     | Game Ready   | 
+565.90     | Game Ready   | Studio
+561.09     | Game Ready   | Studio
+560.94     | Game Ready   | 
+560.81     | Game Ready   | Studio
+560.70     | Game Ready   | Studio
+556.12     | Game Ready   | 
+555.99     | Game Ready   | Studio
+555.85     | Game Ready   | Studio
+552.44     | Game Ready   | 
+552.22     | Game Ready   | Studio
+552.12     | Game Ready   | 
+551.86     | Game Ready   | Studio
+551.76     | Game Ready   | 
+551.61     | Game Ready   | Studio
+551.52     | Game Ready   | 
+551.23     | Game Ready   | Studio
+546.65     | Game Ready   | 
+546.33     | Game Ready   | Studio
+546.29     | Game Ready   | 
+546.17     | Game Ready   | 
+546.01     | Game Ready   | Studio
+545.92     | Game Ready   | 
+545.84     | Game Ready   | 
+537.58     | Game Ready   | Studio
+537.42     | Game Ready   | Studio
+537.34     | Game Ready   | 
+537.13     | Game Ready   | 
+536.99     | Game Ready   | Studio
+536.67     | Game Ready   | Studio
+536.40     | Game Ready   | Studio
+536.23     | Game Ready   | 
+535.98     | Game Ready   | Studio
+532.03     | Game Ready   | 
+531.79     | Game Ready   | 
+531.68     | Game Ready   | 
+531.61     | Game Ready   | Studio
+531.41     | Game Ready   | Studio
+531.29     | Game Ready   | 
+531.18     | Game Ready   | 
+528.49     | Game Ready   | Studio
+528.24     | Game Ready   | Studio
+528.02     | Game Ready   | Studio
+527.56     | Game Ready   | Studio
+527.37     | Game Ready   | 
+526.98     | Game Ready   | Studio
+526.86     | Game Ready   | 
+526.47     | Game Ready   | 
+522.30     |              | Studio
+522.25     | Game Ready   | 
+517.48     | Game Ready   | 
+517.40     |              | Studio
+516.94     | Game Ready   | Studio
+516.93     |              | Studio
+516.59     | Game Ready   | Studio
+516.40     | Game Ready   | 
+512.96     |              | Studio
+512.95     | Game Ready   | 
+512.77     | Game Ready   | 
+512.59     | Game Ready   | Studio
+512.15     | Game Ready   | Studio
+511.79     | Game Ready   | 
+511.65     | Game Ready   | Studio
+511.23     | Game Ready   | 
+511.09     |              | Studio
+497.29     | Game Ready   | 
+497.09     | Game Ready   | 
+496.76     | Game Ready   | 
+496.49     | Game Ready   | 
+496.13     | Game Ready   | 
+472.84     |              | Studio
+472.47     |              | Studio
+472.39     |              | Studio
+472.12     | Game Ready   | Studio
+471.96     | Game Ready   | 
+471.68     | Game Ready   | Studio
+471.41     | Game Ready   | Studio
+471.11     | Game Ready   | Studio
+466.77     | Game Ready   | 
+466.47     | Game Ready   | 
+466.27     | Game Ready   | 
+466.11     | Game Ready   | 
+465.89     | Game Ready   | 
+462.59     |              | Studio
+462.31     |              | Studio
+461.92     | Game Ready   | Studio
+461.72     | Game Ready   | Studio
+461.40     | Game Ready   | Studio
+461.09     | Game Ready   | 
+460.89     | Game Ready   | Studio
+460.79     | Game Ready   | 
+457.51     | Game Ready   | 
+457.30     | Game Ready   | Studio
+457.09     | Game Ready   | 
+456.71     | Game Ready   | Studio
+456.55     | Game Ready   | 
+456.38     | Game Ready   | Studio
+452.06     | Game Ready   | Studio
+451.77     |              | Studio
+451.67     | Game Ready   | 
+451.48     | Game Ready   | Studio
+446.14     | Game Ready   | 
+445.87     | Game Ready   | 
+442.92     |              | Studio
+442.74     | Game Ready   | 
+442.59     | Game Ready   | 
+442.50     | Game Ready   | 
+442.19     | Game Ready   | Studio
+441.87     | Game Ready   | 
+441.66     | Game Ready   | Studio
+441.41     | Game Ready   | 
+441.28     |              | Studio
+441.20     | Game Ready   | 
+441.12     | Game Ready   | Studio
+441.08     | Game Ready   | 
+440.97     | Game Ready   | 
+436.48     | Game Ready   | 
+436.30     | Game Ready   | 
+436.15     | Game Ready   | 
+436.02     | Game Ready   | 
+431.86     |              | Studio
+431.70     |              | Studio
+431.60     | Game Ready   | 
+431.36     | Game Ready   | 
+430.86     | Game Ready   | Studio
+430.64     | Game Ready   | 
+430.39     | Game Ready   | 
+425.31     | Game Ready   | 
+419.67     | Game Ready   | Studio
+419.35     | Game Ready   | 
+419.17     | Game Ready   | 
+418.91     | Game Ready   | 
+418.81     | Game Ready   | 
+417.71     | Game Ready   | 
+417.35     | Game Ready   | 
+417.22     | Game Ready   | 
+417.01     | Game Ready   | 
+416.94     | Game Ready   | 
+416.81     | Game Ready   | 
+416.34     | Game Ready   | 
+416.16     | Game Ready   | 
+411.70     | Game Ready   | 
+411.63     | Game Ready   | 
