@@ -2,7 +2,7 @@
 
 Humorous unhinged emojis made with Genmoji on iOS.
 
-### [> Download Emoji Images Zip Here <](https://github.com/ThioJoe/Resources-From-Videos/raw/main/Unhinged%20Emoji/Emoji-Images.zip)
+### [> Download Emoji Images Zip Here <](https://github.com/ThioJoe/Resources-From-Videos/raw/main/Unhinged-Emoji/Emoji-Images.zip)
 
 ## Notes: 
 - There's an element of randomness in generation. You probably won't get the exact same images when you do it, but you can probably get pretty close.
